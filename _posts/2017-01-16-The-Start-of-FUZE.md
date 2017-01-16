@@ -6,6 +6,8 @@ permalink: /the-start-of-fuze/
 source-id: 1_gAOvoqz4H_mGcXA6zS6tKol2G5aSI0zyKo38Ku3E5M
 published: true
 ---
+<html>
+<body>
 <table>
   <tr>
     <td>Title</td>
@@ -56,5 +58,6 @@ published: true
     <td>I will try get less distracted by others, that way I will learn more. I will also try to read the instructions more before rushing off to do my own thing. </td>
   </tr>
 </table>
-
+</body>
+</html>
 
