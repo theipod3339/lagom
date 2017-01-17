@@ -1,5 +1,5 @@
 ---
-title: The Start of FUZE
+title: The Start of FUZE! -lesson 1
 layout: post
 author: niklas.damarell
 permalink: /the-start-of-fuze/
