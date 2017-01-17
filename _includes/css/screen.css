@@ -9,7 +9,7 @@ html, body {
 
 body {
   font-size: 16px;
-  background http://all4desktop.com/data_images/original/4238051-background.jpg;
+  background url("http://all4desktop.com/data_images/original/4238051-background.jpg");
   color: #222222;
   line-height: 24px;
   margin: 0;
