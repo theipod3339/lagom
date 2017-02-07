@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Having a conversation - lesson 4</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>6/2/17</td>
   </tr>
 </table>
@@ -18,16 +18,16 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Setting up a conversation</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To create a conversation between me and the FUZE.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> Yes, I created a simple conversation which I added some extra detail such as the colour of the text.</td>
   </tr>
 </table>
@@ -35,23 +35,23 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th><h3><font face="Trebuchet MS" style="color:#000099;">Lesson Review </font></h3></th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learned by trial and error mostly. In the code given the was purposefully slightly wrong to trick me so I have learn't that I have to be extra careful in the code I wright.
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Again this week I got a bit distracted by others and I also didn't look forward into the instructions like I should have but I got all the main bits done in the work so all good there.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will try to not get distracted, I will try to look ahead in the instructions and I’ll try to keep Felix informed with everything i'm doing.</td>
