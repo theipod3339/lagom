@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>LEDs - lesson 5</td>
     <td>Date</td>
     <td>20/2/17</td>
