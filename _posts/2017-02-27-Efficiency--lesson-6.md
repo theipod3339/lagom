@@ -32,7 +32,7 @@ published: true
   </tr>
 </table>
 
-<a href="http://tinypic.com?ref=2cmun0z" target="_blank"><img src="http://i68.tinypic.com/2cmun0z.jpg" border="0" ></a>
+<a href="http://tinypic.com?ref=2rogvmh" target="_blank"><img src="http://i67.tinypic.com/2rogvmh.jpg" border="0" ></a>
 
 <table>
   <tr>
@@ -60,7 +60,7 @@ published: true
 
 <html>
 <body>
-<iframe width="320" height="200"
+<iframe width="380" height="260"
 src="https://www.youtube.com/embed/A0Uzhs2BlPE">
 </iframe>
 </body>
