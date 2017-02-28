@@ -59,7 +59,7 @@ published: true
 
 <html>
 <body>
-<iframe width="1280" height="720"
+<iframe width="426" height="240"
 src="https://www.youtube.com/embed/A0Uzhs2BlPE">
 </iframe>
 </body>
