@@ -32,7 +32,7 @@ published: true
   </tr>
 </table>
 
-<a href="http://tinypic.com?ref=2rogvmh" target="_blank"><img src="http://i67.tinypic.com/2rogvmh.jpg" border="0" ></a>
+<a> <img src="http://i67.tinypic.com/2rogvmh.jpg" border="0" ></a>
 
 <table>
   <tr>
