@@ -42,7 +42,9 @@ published: true
   <tr>
     <td>This week I set up all the extra hardware first and I made sure it was all correct. Then I opened my code from last week. I then duplicated that code into a new file and then made sure it worked. I then edited the code and hardware to make it more interesting.
 I found a button in the kit so my plan was to somehow attach one end of the button to the main power cable and the other, to where that power cable would normally go to.</td>
-  </tr>
+<a><img src="http://i67.tinypic.com/29omi54.jpg" border="0" ></a>
+ 
+ </tr>
   <tr>
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
@@ -57,4 +59,4 @@ I found a button in the kit so my plan was to somehow attach one end of the butt
   </tr>
 </table>
 
-
+<html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/v=WRbgy9xER5E"></iframe></body></html>  <html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/v=szHI3vXKic0"></iframe></body></html>
