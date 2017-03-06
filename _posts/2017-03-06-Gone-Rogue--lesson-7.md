@@ -59,4 +59,5 @@ I found a button in the kit so my plan was to somehow attach one end of the butt
   </tr>
 </table>
 
-<html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/v=WRbgy9xER5E"></iframe></body></html>  <html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/v=szHI3vXKic0"></iframe></body></html>
+
+<html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/WRbgy9xER5E"></iframe></body></html>  <html><body><iframe width="380" height="260"src="https://www.youtube.com/embed/szHI3vXKic0"></iframe></body></html>
