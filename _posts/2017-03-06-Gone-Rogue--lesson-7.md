@@ -34,8 +34,7 @@ published: true
 
 
 <table>
-  <tr>
-    <td>Lesson Review</td>
+  <tr>  <th><h3><font face="Trebuchet MS" style="color:#000099;">Lesson Review </font></h3></th>
   </tr>
   <tr>
     <th>How did I learn? What strategies were effective? </th>
