@@ -67,6 +67,7 @@ src="https://www.youtube.com/embed/A0Uzhs2BlPE">
 </html>
 
 <html>
+<body>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -74,4 +75,5 @@ src="https://www.youtube.com/embed/A0Uzhs2BlPE">
     enable_page_level_ads: true
   });
 </script>
+</body>
 </html>
