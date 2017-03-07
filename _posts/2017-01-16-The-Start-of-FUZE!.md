@@ -59,6 +59,7 @@ published: true
 
 PLEASE IGNORE THE FOLLOWING:
 
+<html>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -66,3 +67,6 @@ PLEASE IGNORE THE FOLLOWING:
     enable_page_level_ads: true
   });
 </script>
+</html>
+
+THANKS
