@@ -63,6 +63,7 @@ I found a button in the kit so my plan was to somehow attach one end of the butt
 <iframe width="640" height="360" src="https://www.youtube.com/embed/szHI3vXKic0?rel=0" frameborder="0" allowfullscreen></iframe>
 
 <html>
+<body>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -70,4 +71,5 @@ I found a button in the kit so my plan was to somehow attach one end of the butt
     enable_page_level_ads: true
   });
 </script>
+</body>
 </html>
