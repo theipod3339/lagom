@@ -65,3 +65,13 @@ src="https://www.youtube.com/embed/A0Uzhs2BlPE">
 </iframe>
 </body>
 </html>
+
+<html>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7853205013294084",
+    enable_page_level_ads: true
+  });
+</script>
+</html>
