@@ -58,6 +58,7 @@ published: true
 </table>
 
 <html>
+<body>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -65,4 +66,5 @@ published: true
     enable_page_level_ads: true
   });
 </script>
+</body>
 </html>
