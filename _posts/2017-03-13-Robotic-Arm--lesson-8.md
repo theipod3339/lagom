@@ -35,7 +35,7 @@ published: true
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <tr>  <th><h3><font face="Trebuchet MS" style="color:#000099;">Lesson Review </font></h3></th>
   </tr>
   <tr>
     <th>How did I learn? What strategies were effective? </th>
@@ -57,4 +57,44 @@ published: true
   </tr>
 </table>
 
+
+
+<html>
+<head>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7853205013294084",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+</html>
+
+<html>
+<body>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7853205013294084",
+    enable_page_level_ads: true
+  });
+</script>
+</body>
+</html>
+
+<html>
+<body>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7853205013294084"
+     data-ad-slot="9760688653"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
+</html>
 
