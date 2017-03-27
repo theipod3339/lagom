@@ -10,7 +10,7 @@ html, body {
 body {
   font-size: 16px;
   background url("http://all4desktop.com/data_images/original/4238051-background.jpg");
-  color: #222222;
+  color: #e2b74a;
   line-height: 24px;
   margin: 0;
   border-top: 7px solid {{ site.data.theme.highlight_color }};
@@ -86,20 +86,20 @@ ul.posts li {
 
 ul.posts span {
   font-family: 'Lucida Console', 'Andale Mono', monospace;
-  color: #aaa;
+  color: #ad379f;
   padding-right: 5px;
   font-size:14px;
 }
 
 .meta {
-  color: #aaa;
+  color: #ad379f;
   margin: 0 0 10px 0;
 }
 
 .site .footer {
   font-size: 80%;
   color: #666;
-  border-top: 4px solid #eee;
+  border-top: 4px solid #4bc3d8;
   overflow: hidden;
 }
 
@@ -177,7 +177,7 @@ nav h1, nav h2 {
 
 .aside {
   font-size: 75%;
-  color: #666;
+  color: #4c9665;
 }
 
 #home h2 {
@@ -228,7 +228,7 @@ i.fa-hn {
 .home {
   font-size: 24px;
   float: right;
-  color: #AAA;
+  color: #db6d6d;
 }
 
 .home:hover {
@@ -251,7 +251,7 @@ i.fa-hn {
   position: relative;
   bottom: 27px;
   left: 5px;
-  color: white;
+  color: red;
 }
 
 .caption {
